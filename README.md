@@ -1,4 +1,4 @@
-# WP REST API Theme for Custom Fields for POST
+# WP REST API Plugin for Custom Fields for POST
 
 This is a plugin to get wordpress posts with selected fields using rest api.
 
