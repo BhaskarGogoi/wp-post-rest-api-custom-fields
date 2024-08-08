@@ -14,3 +14,6 @@ This is a plugin to get wordpress posts with selected fields using rest api.
 - Download the file.
 - Put the the file in wp-content > plugins > wp-post-rest-api-custom-fields.
 - Activate the plugin.
+
+## License
+[MIT License](LICENSE)
